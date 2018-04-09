@@ -1,4 +1,4 @@
 ---
-- hosts: slave1
+- hosts: all
   roles:
     - apache
